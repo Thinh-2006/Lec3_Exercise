@@ -8,7 +8,8 @@ public class bt4 {
         float a=keyboard.nextFloat();
         System.out.print("- Enter the second float number: ");
         float b=keyboard.nextFloat();
-        float c=a+b/2;
+        float c=(a+b)/2;
         System.out.println("-> Trung binh cong la: "+ c);
     }
 }
+
